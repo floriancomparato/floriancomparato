@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-- 👌 I'm a Fullstak JavaScript Web Developer
+- 👌 I'm a Fullstack JavaScript Web Developer (MERN) 
 
 - 🌱 I’m currently learning PHP / MySQL and Kotlin
 
 - 🤔 I’m looking for a job
 
-
-
-
-<img src="https://cdn.dribbble.com/users/183207/screenshots/2614645/request-check-icon-by-sergio-voicehovich.gif"/>
+<img src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"/>
