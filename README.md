@@ -2,7 +2,7 @@
 
 - 👌 I'm a Fullstack JavaScript Web Developer (MERN) 
 
-- 🌱 I’m currently learning PHP / MySQL and Kotlin
+- 🌱 I’m currently learning PHP / MySQL and Vue.js
 
 - 🤔 I’m looking for a job
 
